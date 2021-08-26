@@ -1,4 +1,5 @@
 ### Hi there 👋
+I am Gedeon Muhawenayo, a Machine Learning Research Engineer at [INRIA](https://www.inria.fr/en/centre-inria-grenoble-rhone-alpes) (Institut National de Recherche en Informatique et en Automatique) in the [THOTH](https://thoth.inrialpes.fr/) team. 
 
 <!--
 **Gedeon-m-gedus/Gedeon-m-gedus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
