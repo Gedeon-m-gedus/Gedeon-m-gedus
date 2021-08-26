@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Gedeon Muhawenayo, a Machine Learning Research Engineer at [INRIA](https://www.inria.fr/en/centre-inria-grenoble-rhone-alpes) (Institut National de Recherche en Informatique et en Automatique) in the [THOTH](https://thoth.inrialpes.fr/) team. 
+I am [Gedeon Muhawenayo](https://gedeonmuhawenayo.github.io/), a Machine Learning Research Engineer at [INRIA](https://www.inria.fr/en/centre-inria-grenoble-rhone-alpes) (Institut National de Recherche en Informatique et en Automatique) in the [THOTH](https://thoth.inrialpes.fr/) team. Currently I'm working on Hyperspectral Unmixing.
 
 <!--
 **Gedeon-m-gedus/Gedeon-m-gedus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
