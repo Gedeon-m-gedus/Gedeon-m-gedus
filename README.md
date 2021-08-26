@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Gedeon's github stats](https://github-readme-stats.vercel.app/api?username=Gedeon-m-gedus)](https://github.com/Gedeon-m-gedus/github-readme-stats)
+[![Gedeon's github stats](https://github-readme-stats.vercel.app/api?username=Gedeon-m-gedus)](https://github.com/anuraghazra/github-readme-stats)
